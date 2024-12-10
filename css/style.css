@@ -1,0 +1,41 @@
+
+
+.header  {
+    background-color: #24353f;
+}
+.nav-color{
+    background-color: #24353f;
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+    color: white;
+}
+.loginform {
+    background-color:#24353f;
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+
+}
+.loginform h1{
+    color: #17a2b8;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.form-control{
+    background-color: transparent;
+    border-color:#ced4da ;
+    color: #ced4da;
+}
+::placeholder{
+    color: #ced4da!important;
+}
+.form-control:focus {
+    color: #ced4da;
+    background-color:transparent !important;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: none;
+}
+.anchor a{
+    text-decoration: none;
+}
+
+.anchor a:hover{
+text-decoration:underline;
+}
